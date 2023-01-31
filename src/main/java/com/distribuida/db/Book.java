@@ -1,4 +1,4 @@
-package distribuida.db;
+package com.distribuida.db;
 
 import lombok.Data;
 

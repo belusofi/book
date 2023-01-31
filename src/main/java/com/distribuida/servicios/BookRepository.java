@@ -1,15 +1,10 @@
 package com.distribuida.servicios;
 import com.distribuida.config.DbConfig;
 import com.distribuida.db.Book;
-import com.distribuida.servicios.BookNotFoundException;
 import io.helidon.common.reactive.Multi;
 import io.helidon.common.reactive.Single;
 import io.helidon.dbclient.DbClient;
 import jakarta.enterprise.context.ApplicationScoped;
-import jakarta.json.JsonObject;
-
-import java.util.Map;
-import java.util.UUID;
 
 
 @ApplicationScoped
