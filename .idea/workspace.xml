@@ -4,91 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c267d67-6c46-4a4e-8356-271414306522" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/.gradle/7.5.1/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/.gradle/7.5.1/dependencies-accessors/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/.gradle/7.5.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/.gradle/7.5.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/.gradle/file-system.probe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/.idea/modules/correcion-examen.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/build/classes/java/main/META-INF/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/build/classes/java/main/META-INF/microprofile-config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/build/classes/java/main/com/distribuida/RestApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/build/classes/java/main/com/distribuida/Servidor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/build/classes/java/main/com/distribuida/config/DbConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/build/classes/java/main/com/distribuida/db/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/build/classes/java/main/com/distribuida/rest/BookRest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/build/classes/java/main/com/distribuida/servicios/BookService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/build/classes/java/main/com/distribuida/servicios/BookServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/build/lombok/effective-config/lombok-main.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/src/main/java/com/distribuida/RestApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/src/main/java/com/distribuida/Servidor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/src/main/java/com/distribuida/config/DbConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/src/main/java/com/distribuida/db/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/src/main/java/com/distribuida/rest/BookRest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/src/main/java/com/distribuida/servicios/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/src/main/java/com/distribuida/servicios/BookServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/src/main/resources/META-INF/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion-examen/src/main/resources/META-INF/microprofile-config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion/.idea/modules/correcion.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion/src/main/java/com/distribuida/RestApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion/src/main/java/com/distribuida/Servidor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion/src/main/java/com/distribuida/config/Dbconfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion/src/main/java/com/distribuida/db/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion/src/main/java/com/distribuida/rest/BookRest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion/src/main/java/com/distribuida/servicios/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion/src/main/java/com/distribuida/servicios/BookServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion/src/main/resources/META-INF/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../correcion/src/main/resources/META-INF/microprofile-config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mp01/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mp01/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/distribuida/db/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/distribuida/db/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/distribuida/servicios/BookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/distribuida/servicios/BookRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/db.migration/V1__base_line.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/db.migration/V2__insertar_datos.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mp01/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../mp01/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mp01/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../mp01/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mp01/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../mp01/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mp01/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../mp01/.gradle/file-system.probe" afterDir="false" />
+    <list default="true" id="3c267d67-6c46-4a4e-8356-271414306522" name="Changes" comment="build">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f33725df-d6db-4303-ad47-c08f36b73b94.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f33725df-d6db-4303-ad47-c08f36b73b94/storage_v2/_src_/database/distribuidas._TnDoQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f33725df-d6db-4303-ad47-c08f36b73b94/storage_v2/_src_/database/distribuidas._TnDoQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f33725df-d6db-4303-ad47-c08f36b73b94/storage_v2/_src_/database/distribuidas._TnDoQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f33725df-d6db-4303-ad47-c08f36b73b94/storage_v2/_src_/database/distribuidas._TnDoQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/db/migration/V1__base_line.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/db/migration/V2__insertar_datos.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,24 +80,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/SO/Documents/Sofi/Distribuida/sumativa/books",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SO/Documents/Sofi/Distribuida/sumativa/books&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\SO\Documents\Sofi\Distribuida\sumativa\books" />
@@ -180,7 +106,7 @@
       <recent name="C:\Users\SO\Documents\Sofi\Distribuida\sumativa\books\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.books [copyLibs]">
+  <component name="RunManager" selected="Gradle.books [jar]">
     <configuration name="Servidor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.distribuida.Servidor" />
       <module name="books.main" />
@@ -194,6 +120,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="books [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="books [copyLibs]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -206,27 +153,6 @@
         <option name="taskNames">
           <list>
             <option value="copyLibs" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="books [flywayBaseline]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="flywayBaseline" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -280,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.books [copyLibs]" />
         <item itemvalue="Gradle.books [jar]" />
+        <item itemvalue="Gradle.books [build]" />
+        <item itemvalue="Gradle.books [copyLibs]" />
         <item itemvalue="Application.Servidor" />
         <item itemvalue="Gradle.books [flywayMigrate]" />
-        <item itemvalue="Gradle.books [flywayBaseline]" />
       </list>
     </recent_temporary>
   </component>
@@ -296,11 +222,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675140829050</updated>
-      <workItem from="1675140831385" duration="1891000" />
+      <workItem from="1675140831385" duration="4878000" />
+      <workItem from="1675145876430" duration="1892000" />
     </task>
+    <task id="LOCAL-00001" summary="Actualizacion jar">
+      <created>1675142855604</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675142855604</updated>
+    </task>
+    <task id="LOCAL-00002" summary="build">
+      <created>1675143048603</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675143048603</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Actualizacion jar" />
+    <MESSAGE value="build" />
+    <option name="LAST_COMMIT_MESSAGE" value="build" />
   </component>
 </project>

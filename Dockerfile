@@ -1,9 +1,4 @@
-FROM eclipse-temurin:17.0.5_8-jre-alpine
-
-RUN mkdir /app
-WORKDIR /app
-
-COPY build/libs/*.jar app.jar
-COPY build/libs/libs ./libs
-
-CMD ["java","-jar","app.jar"]
+FROM eclipse-temurin:17
+RUN mkdir /opt/app
+COPY ./build/libs/*.jar /opt/app/app.jar
+CMD ["java", "-jar", "/opt/app/app.jar"]
