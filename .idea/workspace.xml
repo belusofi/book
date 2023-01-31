@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c267d67-6c46-4a4e-8356-271414306522" name="Changes" comment="build">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f33725df-d6db-4303-ad47-c08f36b73b94.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f33725df-d6db-4303-ad47-c08f36b73b94/storage_v2/_src_/database/distribuidas._TnDoQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f33725df-d6db-4303-ad47-c08f36b73b94/storage_v2/_src_/database/distribuidas._TnDoQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f33725df-d6db-4303-ad47-c08f36b73b94/storage_v2/_src_/database/distribuidas._TnDoQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f33725df-d6db-4303-ad47-c08f36b73b94/storage_v2/_src_/database/distribuidas._TnDoQ/schema/public.abK9xQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/db/migration/V1__base_line.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/db/migration/V2__insertar_datos.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3c267d67-6c46-4a4e-8356-271414306522" name="Changes" comment="build" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -224,6 +214,7 @@
       <updated>1675140829050</updated>
       <workItem from="1675140831385" duration="4878000" />
       <workItem from="1675145876430" duration="1892000" />
+      <workItem from="1675150787464" duration="349000" />
     </task>
     <task id="LOCAL-00001" summary="Actualizacion jar">
       <created>1675142855604</created>
@@ -239,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675143048603</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="build">
+      <created>1675151019376</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675151019376</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
